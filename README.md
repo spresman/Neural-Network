@@ -16,8 +16,7 @@ Testing data: mnist_test.csv
 
 # Libraries
 
-numpy
-Matplotlib
+NumPy
 
 # Familiarization
 
