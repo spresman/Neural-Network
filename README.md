@@ -7,7 +7,9 @@ but takes on a three-layer structure (784, 300, 10) to classify hand-written dig
 ![numbers](https://user-images.githubusercontent.com/66577070/187332068-8668d0b2-1645-4cc2-9a4d-622d3dc2fef5.jpg)
 
 # Data
-Data is stored as CSV files:
+Data is stored as CSV files, and can be found on Kaggle:
+
+https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 
 Training data: mnist_train.csv                           
 Testing data: mnist_test.csv
